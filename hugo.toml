@@ -1,4 +1,4 @@
 baseURL = 'https://matthewhilton.dev'
 languageCode = 'en-us'
 title = 'Matthew Hilton'
-theme = 'nostyleplease'
+theme = 'mattstheme'

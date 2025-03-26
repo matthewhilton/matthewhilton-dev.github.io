@@ -4,6 +4,10 @@ description: "Decreasing texture copy times by 99%"
 date: "2024-09-05"
 draft: false
 toc: true
+icon: /icons/godot.png
+icondescription: godot game engine logo
+tags:
+- godot
 ---
 
 ## A tale as old as time - CPU bottlenecking

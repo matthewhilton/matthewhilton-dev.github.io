@@ -4,6 +4,10 @@ description: "Using the Godot game engine to render trees. A lot of trees."
 date: "2024-08-10"
 draft: false
 toc: true
+icon: /icons/godot.png
+icondescription: godot game engine logo
+tags:
+- godot
 ---
 This is my plan to render millions of trees for a ski resort game i'm building. You'll probably want to have a bit of knowledge of game internal/engines for this one.
 
